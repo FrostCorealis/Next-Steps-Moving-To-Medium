@@ -1,6 +1,6 @@
 # ⭐️ Medium Coming Soon!! ⭐️ 
 
-* I'm setting up a Medium and this will be my first post: *
+I'm setting up a Medium and this will be my first post:
 
 Third Chainlink Hackathon project has shipped!  Side-by-side comparison with the first one we shipped a year ago?  We’ve definitely sharpened some skills.  It’s exciting!  It'll take a little time to fully absorb all we accomplished, but we're looking toward the future and figuring out our next steps.  For me, that's focusing on the frontend aspect of full stack design.
 
@@ -14,7 +14,7 @@ The traditions and nuances lurking under the surface of the current iteration of
 
 I respect React, but between now and the next Chainlink Hackathon, I’ll be looking at other ways to construct frontends that can read and write blockchain data.  React is used widely for a reason, but Vue3 and Angular are both intriguing.  I’m also heading back to Codecademy to learn TypeScript.
 
-I’m curious about design platforms like Framer, but I’m a builder.  I like to build interconnected full stacks.             
-Anyway, I've been working on a contract for an NFT game (not for the hackathon) and plan to build the frontend for that with Vue.
+I’m curious about design platforms like Framer, but I’m a builder.  I like to build interconnected full stacks.
 
-Stay tuned! 🙏🏻
+Anyway, I've been working on a contract for an NFT game (not for the hackathon) and plan to build the frontend for that with either Angular or Vue.
+
