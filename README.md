@@ -1,6 +1,6 @@
 # ⭐️ Medium Coming Soon!! ⭐️ 
 
-I'm setting up a Medium and this will be my first post:
+_I'm setting up a Medium and this will be my first post:_
 
 Third Chainlink Hackathon project has shipped!  Side-by-side comparison with the first one we shipped a year ago?  We’ve definitely sharpened some skills.  It’s exciting!  It'll take a little time to fully absorb all we accomplished, but we're looking toward the future and figuring out our next steps.  For me, that's focusing on the frontend aspect of full stack design.
 
